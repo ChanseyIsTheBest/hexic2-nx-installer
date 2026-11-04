@@ -1,0 +1,1986 @@
+{
+  "version": 1,
+  "builds": [
+    {
+      "edition": "Xbox Live Arcade (title 58410826) with Title Update 1",
+      "version": "1.0.0",
+      "xex_sha256": "22a7f67503078a9d479e6f65e7c84941ae16aec7e5e0896cade0661b1a8fb6ca",
+      "nro": "hexic2-nx.nro",
+      "nro_sha256": "a99f7642ae76e6406ff9cfb127a7a936d34c7834b843271c37110460fd5177c4",
+      "nro_size": 51605948,
+      "game_files": 343,
+      "game_bytes": 57916766,
+      "update": {
+        "xexp_sha256": "3e259982bbac25faa855aa4a57a6ed95b5f6c7193cbb5ae020f67dccb92d7fe4",
+        "files": 1,
+        "bytes": 305152
+      },
+      "deko3d": {
+        "shaders": [
+          "ps_0240E705A97B8650",
+          "ps_03CE9E4170A8B9E9",
+          "ps_05C9B802C6E2E9B2",
+          "ps_087373AF9CE9DF64",
+          "ps_0C0444FC81B426EA",
+          "ps_0C2D6ABB1CCF2E5D",
+          "ps_0FC0778F5F149114",
+          "ps_1218419F9D171CBA",
+          "ps_137410352D5F6565",
+          "ps_15659639BD6B644B",
+          "ps_19115150F6146DFE",
+          "ps_1ACFE18069C1A236",
+          "ps_1AEB45F77C5797B9",
+          "ps_201081840ED0E6F7",
+          "ps_2088CDA45CB5ED8E",
+          "ps_20CA701551A209C1",
+          "ps_212309F4A2C0564B",
+          "ps_21D5391CF2F60EB4",
+          "ps_21EBA61FEC8317E4",
+          "ps_22D514FBDFFF7AA7",
+          "ps_243FE936B252015A",
+          "ps_2715E8F5ACE64DD3",
+          "ps_2A8FD98703E6904F",
+          "ps_2FAA681FFEFEF242",
+          "ps_302E462BDC24E9A4",
+          "ps_302EC796320784DF",
+          "ps_335F4CDDA235A6BC",
+          "ps_3469CB911CE04C4B",
+          "ps_369A96824CACFCBB",
+          "ps_3AE0B2C4CA1D5010",
+          "ps_3C2AE90051A08202",
+          "ps_3E46150FFB210FAE",
+          "ps_4170922523FFF903",
+          "ps_42885CD806EBC657",
+          "ps_434C6B2AF342D26C",
+          "ps_4446205725D33CCB",
+          "ps_44F9B41426F3AE5E",
+          "ps_4986E8610A74A38E",
+          "ps_4A68318A50187DC5",
+          "ps_4EB76F9F47F5A97C",
+          "ps_4ED4FC0B21B2DDEB",
+          "ps_4FD8017A019694FC",
+          "ps_4FDF0601E7F19C91",
+          "ps_5095057CB3F38DAA",
+          "ps_577B0B4E60D5C91E",
+          "ps_61903C878652DC59",
+          "ps_61D80D5AFEC553E1",
+          "ps_63433B40C750EE29",
+          "ps_66B46A34BB2BD220",
+          "ps_72DB24A91D67B26D",
+          "ps_750815050032A64A",
+          "ps_77589936A0065578",
+          "ps_7978F5FBC9C43B9A",
+          "ps_7ACA04B2BD4D1787",
+          "ps_7D704CB2434205ED",
+          "ps_7D9E55FC46291278",
+          "ps_7E064B09BE581E6A",
+          "ps_7E223BCF748C3122",
+          "ps_7FCDB8784DB43930",
+          "ps_8109E72B1C41DA1D",
+          "ps_811439411EF0E758",
+          "ps_862E194DAD4F2147",
+          "ps_87FC0E0D7344C35F",
+          "ps_90872A9EADD06485",
+          "ps_93A6058A98A19809",
+          "ps_93CFAFE098A5BC4D",
+          "ps_9D93279CA4D9B6C7",
+          "ps_9DD9FA9A8A211CD3",
+          "ps_A16D2091FE39E3DC",
+          "ps_A1F75E27C9CF7C69",
+          "ps_A3C013455DD36E4E",
+          "ps_A8B76E88D388F327",
+          "ps_A90487645E4A496F",
+          "ps_A9611297898CE9AA",
+          "ps_AA2218FC354C4201",
+          "ps_B11C808020B8BA02",
+          "ps_B4322B036164C41D",
+          "ps_B7200040023093E5",
+          "ps_B76A898FC84E59E7",
+          "ps_B8DE123E2118529D",
+          "ps_BA2FD437EF610286",
+          "ps_BCF62F6ECE4F743A",
+          "ps_C210406C5BF936C2",
+          "ps_C4DFD43AE5B5131C",
+          "ps_C575104D7449B0DF",
+          "ps_C6CF2992079C747D",
+          "ps_CBBFC8F1D37963FC",
+          "ps_CC59647E20B478F9",
+          "ps_CED522B1B0958240",
+          "ps_D1F307CBD10982FE",
+          "ps_D2A8511F24285E59",
+          "ps_D4B212433144D17D",
+          "ps_D67EDAF8157AC5DF",
+          "ps_E010661E6A6972C0",
+          "ps_E5E69C65074E218E",
+          "ps_ECD36E426E9875DE",
+          "ps_ECE1A48DA3E6A0F6",
+          "ps_EFCBEDD3002D915E",
+          "ps_F1289BD1226CF35D",
+          "ps_F17D0F88E49D3DE1",
+          "ps_F1F49ED8BA4B89E6",
+          "ps_F557E9E3065F77F6",
+          "ps_F5918D1C96F05534",
+          "ps_F7259C260887C584",
+          "ps_FC3F67BB517CD4F3",
+          "ps_FCBC638338FB2086",
+          "ps_FF2028A1680E9695",
+          "vs_00714D3A2B07C0DC",
+          "vs_05A98ACE0736B849",
+          "vs_0627D0225A789B7A",
+          "vs_07047BCDDD22B984",
+          "vs_071F0ABF604ED5E5",
+          "vs_0752100258BADF67",
+          "vs_08EC525740729EA0",
+          "vs_0AEAC34B36EF490D",
+          "vs_0B8BE1322808D1BB",
+          "vs_0F7E69DDE9274E65",
+          "vs_0FAE0960B6247994",
+          "vs_102B8261FD8A1E41",
+          "vs_129CE03027316EC3",
+          "vs_12B9626F07E9A105",
+          "vs_1320DFAD2B48AC7C",
+          "vs_15D45A33308000D0",
+          "vs_164B8E70CCB33901",
+          "vs_18BD5D527745014D",
+          "vs_18D3D88CD23E06CD",
+          "vs_19F34604EC91646D",
+          "vs_1CA785C516BC558E",
+          "vs_1CBA66F7072E58B1",
+          "vs_1F43E7CC8F113238",
+          "vs_227F081D7E14890D",
+          "vs_24EBD5FA2A2EBE09",
+          "vs_2504D06F8413A561",
+          "vs_26080FB1724F927C",
+          "vs_2A9BB4CCA6020FA2",
+          "vs_30FC83A583D5FD5E",
+          "vs_3173F913CA50DE8D",
+          "vs_35F93D104B80E9BD",
+          "vs_3800BB7B249AD37B",
+          "vs_389C405A23141DEB",
+          "vs_39A710A446150E60",
+          "vs_3ADA6D7414AC85AF",
+          "vs_3C474C51ECF5DD3B",
+          "vs_3DF451950E69CF92",
+          "vs_3E1C54E79EA9AC47",
+          "vs_3EF3638D5D108D14",
+          "vs_41F9672925F4D140",
+          "vs_421342307B901B39",
+          "vs_46099B3FC1127D5B",
+          "vs_463C0E24A80A8D69",
+          "vs_4CE5F6AF243A49AB",
+          "vs_51EE083122B0DBB9",
+          "vs_53633FDB64DDEA69",
+          "vs_53DF6A76034A5164",
+          "vs_56B1432F9A38DC30",
+          "vs_586A23C076E7F28C",
+          "vs_5E961228852C0D95",
+          "vs_5FFF41B0BE66D2FA",
+          "vs_617F3A63878575DC",
+          "vs_6433C5887CAC11A5",
+          "vs_686BBBA84765B6C6",
+          "vs_6977D649919EA06B",
+          "vs_6B4AC613B76E7125",
+          "vs_6CAF8CED379B081E",
+          "vs_72F2574E0816ADEC",
+          "vs_76D5B602156EE4BF",
+          "vs_7725DEC45E721388",
+          "vs_77797E7965432F13",
+          "vs_795C5520DDF75C56",
+          "vs_79BA69DC8CBB7086",
+          "vs_7A1C4BC428ABA7D3",
+          "vs_7AEFC97AF022DE96",
+          "vs_7BE3A9DA6BCACA6E",
+          "vs_7D247EF0B2E1A9A2",
+          "vs_7DFD323A60ACD24B",
+          "vs_7EC1B10B449FB51B",
+          "vs_80527D08485943BE",
+          "vs_81BE0234D5DCB9AA",
+          "vs_83CFC4FFFB5952C2",
+          "vs_8BE59AD6C0B5DC8D",
+          "vs_8D930928F4506004",
+          "vs_8DD2E584C6E9124C",
+          "vs_9546B39A0C9C2744",
+          "vs_967B2291AAC81629",
+          "vs_9C4595007B6D00F7",
+          "vs_9DED3D0CE7007231",
+          "vs_9EB0BDEE473A7B52",
+          "vs_9F3517FA4CE0130C",
+          "vs_A082920D163584A4",
+          "vs_A252EFB075A5E89A",
+          "vs_A292673E59AB8695",
+          "vs_A29AB8EF3CD7553B",
+          "vs_ABFB36006F022294",
+          "vs_AFADDF174F900A0E",
+          "vs_B04E029579938B7B",
+          "vs_B094C6A94D523359",
+          "vs_B4E078B959E58C11",
+          "vs_B61B4CCC53286E01",
+          "vs_B7E7075450C528CB",
+          "vs_B8AE8B029E47D77B",
+          "vs_BA3FA30763D314B2",
+          "vs_BE43D2ADA5D80DF2",
+          "vs_BE5CBA8B293B3519",
+          "vs_D0226AF1E750B23F",
+          "vs_D08DDAA8CC538696",
+          "vs_D26292628E8B7698",
+          "vs_D29516D38D32F7E8",
+          "vs_D400D884DD6951FE",
+          "vs_D708BB04C677F751",
+          "vs_D76E092879C66FD5",
+          "vs_D90E77F5C2C11C8E",
+          "vs_DC9E8C03FF8E38E6",
+          "vs_E438ECF463FBA891",
+          "vs_E4957F7175692A25",
+          "vs_E4E6B2A839CC8994",
+          "vs_E524079CEE728E00",
+          "vs_E53D8F9020D62533",
+          "vs_E5741344071E6267",
+          "vs_E7176A5332D7F009",
+          "vs_E7C9EF824A0A16CC",
+          "vs_E8169BF7685DAB8C",
+          "vs_EB8D8F187545D092",
+          "vs_EBAE29EC8EF2D813",
+          "vs_EC9C89F780DDBD13",
+          "vs_EDF0FD81CBA62F6F",
+          "vs_F173863D0BD0E73B",
+          "vs_F1905BEDA788B33D",
+          "vs_F27F8C5E66FC8B14",
+          "vs_F3D8E4B395C70A8E",
+          "vs_FF478D14AEB1892A",
+          "vs_FF50EE8271ED3393"
+        ],
+        "image_sha256": [
+          "f02bbdc517a1ab218a1d19a85bd4a5302b7eb7e38c295bb27cdc4fb4408405cf",
+          "3110c827be78251e1442a982c9a40d9738e6427b3cf3dc374e51788df849acb2",
+          "07c0579d1b943658df5b87504752e4e9c20db35cb3f1fdb4d2a444cdac2275ee",
+          "e97f510986f961a5fd842952a732cb09f69223ee0573ab5ea6f00fb693d73b08",
+          "5d0da3e8df888a59feee782c388a96f031366b5f0a4cdf0db66d337e3f8f1d69",
+          "943a93f7798082a39e66cac9b21c1981fa1a9a0c2882db3d93535e14ecae9a0f",
+          "71e670a0bdd35517b0ac959493225e7a6d3f80a532a38f994f3346e7cce60509",
+          "ce539d4d9a76f08edb470a949e04723ea668c82a889eb492fa16b356c6c18098",
+          "4b8f50408caf697d57f74ba10d626f8f342f4790ffb2ca0aeeb5bda061c24342",
+          "cce081a63b5687872f4fa837dacef50ab21bb8251684a99b93a96bc1feec0544",
+          "43c891064fd1938918ce91c71a7366910dd8e508b9b9afd916b92d9562ead7b2",
+          "d73a55cb11b87ac077edce94c77be61f77e7dabf05e2b3a1b9afdb2731350538",
+          "24709e732deefb05bcec929c6c6cdd4ae6d7dfc2034a4f81f77c4a8bcf601afe",
+          "8b5e5565024fd1b78bb8745ccfbef1d07dd63e96cd936b1ed1269a10aac7c01e",
+          "19eb19b4af0e6208ac6e07d1a21f280dfade5612d0427d3d1b589796daa8ac22",
+          "526f9b9c16a6d85825ee6955f9a8359198785f31295a7991c034a549d8a2d35f",
+          "4aa9e97daffb6f8156a929b847ce0f4d62643b9ec70d887ed5a062a54dfcb565",
+          "643789c3b75189240498ab0765ac7b58bf6b9396cea267694fc8460685e8cad5",
+          "76971f5b92e5278726f0cdba9808fd3ca263f1c7bfbeee45170b5bf68eeaa3a1",
+          "fc5dc8e088a3594593abcbdeea9f3d3fd3f958de50480560cf5780e1e429c694",
+          "c77d0eb23f649eb19d9ab237caaf85c4d1fd0332fca23ad1c8201ed3c903c0e5",
+          "f346a815f58d4f349cb5d688a474c2c934bfb7e007263c4d68520a56b57d256b",
+          "f7581145cce243c9cf12fae7f782c128e0af502fd4b8deb7f6671567116aa23a",
+          "606639dab62d57e04cabe01e99ed78721eeb22a15f1a499b8b9e412895084b26",
+          "f8983f3d37507c9f89034a7221f37e62b0f6a5bb96b7cc19df07c2099318b2c6",
+          "f9c67eec14621f2818aa93e61e7b30aac5dcbf5cda640f5187ddbe240a767fb8",
+          "dddcc70b761e5350455ebf6b7022d844c621e94bec0686d92cb1f2bf887866ad",
+          "9ca483c54fe34f63bfe641492a293358a136bd628cbe295107430bc2cb6bec7f",
+          "7d4825c6d5a44dc5b51fbad204f7b2000a42d2e68283d2cbdb9792e71371b79d",
+          "cc0cc18baac8cd99fee6d9f09c29910d29cf5f46ca6031af697d219e58c45767",
+          "a4248bda26447d6deeef74d68ffc878a4469f59c48ddfa2ae0bce7013fdd2a77",
+          "172f13e8c39140a50944f60051ab7997e42a2929745926c6257520d64491b838"
+        ],
+        "files": [
+          {
+            "name": "ps_03ce9e4170a8b9e9",
+            "file": "Media/Shaders/GpuParticleUpdate.xpu",
+            "at": 0,
+            "length": 1160,
+            "sha256": "ed50f0087ac981ec3c441b84467d70647f50e8a964f5829cd9acb65c7de235de"
+          },
+          {
+            "name": "ps_0c0444fc81b426ea",
+            "file": "Media/Shaders/Sprite.xpu",
+            "at": 0,
+            "length": 244,
+            "sha256": "1f0e30ce38c4908c0f3d5be84ff7ca316f3e91e68e77017da225fcfa35a466d4"
+          },
+          {
+            "name": "ps_15659639bd6b644b",
+            "file": "Media/Shaders/HexicFinalMerge.xpu",
+            "at": 0,
+            "length": 404,
+            "sha256": "e21cd621590676bdc10066b24a9cd9953a8e0ffa2ad1cfc0da5ffdf639b3d7a0"
+          },
+          {
+            "name": "ps_1aeb45f77c5797b9",
+            "file": "Media/Shaders/Ice.xpu",
+            "at": 0,
+            "length": 168,
+            "sha256": "8c54f758f615e31ebfe4cce0c6ed8c4062063f20d68f1228d0385f6b758ace40"
+          },
+          {
+            "name": "ps_21d5391cf2f60eb4",
+            "file": "Media/Shaders/GaussBlur5x5.xpu",
+            "at": 0,
+            "length": 764,
+            "sha256": "c8305f94ab92b3d623af2c41f3943d0676bc031b30177d8230859fc7ae72c0db"
+          },
+          {
+            "name": "ps_21eba61fec8317e4",
+            "file": "Media/Shaders/GpuParticleRender.xpu",
+            "at": 0,
+            "length": 244,
+            "sha256": "30c007d2aa1f88b8caa8ab7786c9be6d9efa39c434aa1825114c6c52d025253b"
+          },
+          {
+            "name": "ps_2715e8f5ace64dd3",
+            "file": "Media/Shaders/MergeTextures_5.xpu",
+            "at": 0,
+            "length": 468,
+            "sha256": "d973f4459d26b3959e13109d50451f44c1441d2f3fc02d46d48c38e74a418326"
+          },
+          {
+            "name": "ps_2faa681ffefef242",
+            "file": "Media/Shaders/SampleLumInitial.xpu",
+            "at": 0,
+            "length": 756,
+            "sha256": "def67358dbcb1250103843b7050f9e238be55bb9163a0805cdeb2033e226742c"
+          },
+          {
+            "name": "ps_302e462bdc24e9a4",
+            "file": "Media/Shaders/Cursor.xpu",
+            "at": 0,
+            "length": 496,
+            "sha256": "a088b95ccd0bb293ffe39071cef3bc640eab6961d5a04e6fc45c7cf56ae1eb1b"
+          },
+          {
+            "name": "ps_302ec796320784df",
+            "file": "Media/Shaders/Highlight.xpu",
+            "at": 0,
+            "length": 204,
+            "sha256": "9589048b7d1e81e610da582eb37383945777779bc17aefda292689ed7ec39436"
+          },
+          {
+            "name": "ps_3e46150ffb210fae",
+            "file": "Media/Shaders/MergeTextures_6.xpu",
+            "at": 0,
+            "length": 516,
+            "sha256": "b9979243f29b57862d46429382b063789ed8f9414f531fe24b1cf80a6dfe9cea"
+          },
+          {
+            "name": "ps_4170922523fff903",
+            "file": "Media/Shaders/DownScale4x4.xpu",
+            "at": 0,
+            "length": 936,
+            "sha256": "d4e7d14a16d4f7a7b29c77ae32acab7e24a1a566282f1470f860d62a766570af"
+          },
+          {
+            "name": "ps_61d80d5afec553e1",
+            "file": "Media/Shaders/ShadeZNGlassPixel.xpu",
+            "at": 0,
+            "length": 176,
+            "sha256": "9e4b1572c856ab7a7c0c113d7bc2b260d7290d6721b284ad960ce168474d6c93"
+          },
+          {
+            "name": "ps_7aca04b2bd4d1787",
+            "file": "Media/Shaders/ShadeGlassPixel.xpu",
+            "at": 0,
+            "length": 740,
+            "sha256": "e6139b03610cf70c1428e3b03abc9fb893f7ded5c8791b9e42290d2651b429a2"
+          },
+          {
+            "name": "ps_7d704cb2434205ed",
+            "file": "Media/Shaders/MergeTextures_2.xpu",
+            "at": 0,
+            "length": 328,
+            "sha256": "2090df4a26214bee9e27c6265d37615c844674c91c319d3f19648cafa8c63130"
+          },
+          {
+            "name": "ps_7e223bcf748c3122",
+            "file": "Media/Shaders/MergeTextures_8.xpu",
+            "at": 0,
+            "length": 620,
+            "sha256": "9ef49f75d63ce02cc618b09038f595cdedc5c0765aeda15133895e65c699f25d"
+          },
+          {
+            "name": "ps_811439411ef0e758",
+            "file": "Media/Shaders/Star.xpu",
+            "at": 0,
+            "length": 584,
+            "sha256": "64826b77274a0712178094f38bc94a5f2f90708f0dae847bf5a3054a792c48b7"
+          },
+          {
+            "name": "ps_a8b76e88d388f327",
+            "file": "Media/Shaders/Quad.xpu",
+            "at": 0,
+            "length": 288,
+            "sha256": "ec860d3881c4922cb338845317daea90cd32ebfca38afbc25ade446a86e535f6"
+          },
+          {
+            "name": "ps_a9611297898ce9aa",
+            "file": "Media/Shaders/MergeTextures_7.xpu",
+            "at": 0,
+            "length": 572,
+            "sha256": "c6bae3ead2ba3b071bc340e67493cff22ae14dcb053abab5e694593c6a32150f"
+          },
+          {
+            "name": "ps_aa2218fc354c4201",
+            "file": "Media/Shaders/MergeTextures_3.xpu",
+            "at": 0,
+            "length": 372,
+            "sha256": "e2e93cfbb36386e84a62291c30435c300bd09537b107efceb571cff0c288b0b8"
+          },
+          {
+            "name": "ps_b11c808020b8ba02",
+            "file": "Media/Shaders/DownScale2x2.xpu",
+            "at": 0,
+            "length": 504,
+            "sha256": "1893e830a676201a38c567f15771e3b0ac270a15ce39bb7c17bac001f10949b9"
+          },
+          {
+            "name": "ps_b8de123e2118529d",
+            "file": "Media/Shaders/SampleLumFinal.xpu",
+            "at": 0,
+            "length": 948,
+            "sha256": "86992a5fa3a84abcd30bc8bad049b232172d918f8a891484bd0e89d75915d05b"
+          },
+          {
+            "name": "ps_c210406c5bf936c2",
+            "file": "Media/Shaders/MergeTextures_4.xpu",
+            "at": 0,
+            "length": 420,
+            "sha256": "2824e67cea6f6e2898066a82fd2cf70e7365cb3835ca68f1e7b1051b483c5467"
+          },
+          {
+            "name": "ps_c4dfd43ae5b5131c",
+            "file": "Media/Shaders/CalculateAdaptedLum.xpu",
+            "at": 0,
+            "length": 464,
+            "sha256": "06583b728da8bddfc5b6dbf7f6d7206a4ab6a3902d2b6a7a15d3bcd9e5260b06"
+          },
+          {
+            "name": "ps_cbbfc8f1d37963fc",
+            "file": "Media/Shaders/Flare.xpu",
+            "at": 0,
+            "length": 528,
+            "sha256": "9fbc159c921421e36c0b071351bd4a39300dc4fbca18fe832d7c69dcfde6cfff"
+          },
+          {
+            "name": "ps_d2a8511f24285e59",
+            "file": "Media/Shaders/BrightPassFilter.xpu",
+            "at": 0,
+            "length": 536,
+            "sha256": "1a325d986416ac38a45da5a28b80ce2cfa91fb7d76098fc1740e396f3d16e65c"
+          },
+          {
+            "name": "ps_e010661e6a6972c0",
+            "file": "Media/Shaders/MergeTextures_1.xpu",
+            "at": 0,
+            "length": 280,
+            "sha256": "5373efb346a91cc0ddd25ed40e199a72a17a6bb9e568fbd973bc1430aad8845b"
+          },
+          {
+            "name": "ps_e5e69c65074e218e",
+            "file": "Media/Shaders/Gamepiece.xpu",
+            "at": 0,
+            "length": 528,
+            "sha256": "107ae1b31d86e21fa67632e880e8ec1fb2dbafd4230c8f79f57aa5a7ef753b59"
+          },
+          {
+            "name": "ps_ece1a48da3e6a0f6",
+            "file": "Media/Shaders/Bloom.xpu",
+            "at": 0,
+            "length": 836,
+            "sha256": "7d7a300c8e21bce6e378de6ca237df843e7566c8aa7d734d3c8d48a871f43ab1"
+          },
+          {
+            "name": "ps_f557e9e3065f77f6",
+            "file": "Media/Shaders/ShadeScenePixel.xpu",
+            "at": 0,
+            "length": 296,
+            "sha256": "2ec2ffbb3d3b29722fbd8e4f335c35ba4f3ecab84e002fddc009564980938ee5"
+          },
+          {
+            "name": "ps_fcbc638338fb2086",
+            "file": "Media/Shaders/Simple.xpu",
+            "at": 0,
+            "length": 608,
+            "sha256": "dec9a6bb556d0cd103b210e6ab0478d39c909d8367aa906575e45ff55a7d1ebf"
+          },
+          {
+            "name": "vs_07047bcddd22b984",
+            "file": "Media/Shaders/Falloff.xvu",
+            "at": 0,
+            "length": 940,
+            "sha256": "b8332c6171bfb371c4340bdc336fb453c4f76ec080b2268d3d281fdf808310f0"
+          },
+          {
+            "name": "vs_071f0abf604ed5e5",
+            "file": "Media/Shaders/PostQuad.xvu",
+            "at": 0,
+            "length": 328,
+            "sha256": "ad8cb8d67e4719341b9d66e7185418a5c28459224015136f7f8dcad41855e3ca"
+          },
+          {
+            "name": "vs_102b8261fd8a1e41",
+            "file": "Media/Shaders/Highlight.xvu",
+            "at": 0,
+            "length": 472,
+            "sha256": "1ee834efed9e966f123393e351ec8c505bc8d9264f239e08e164329761dc9402"
+          },
+          {
+            "name": "vs_15d45a33308000d0",
+            "file": "Media/Shaders/ShadeGlassVertex.xvu",
+            "at": 0,
+            "length": 1352,
+            "sha256": "4833e13b76e2888944666b4bfffea20712079ec29ac65f865f55aae04fa14747"
+          },
+          {
+            "name": "vs_1ca785c516bc558e",
+            "file": "Media/Shaders/GpuParticleRender.xvu",
+            "at": 0,
+            "length": 448,
+            "sha256": "35ece29e609cf0ec78f03bf94fe7e3c5eadec9682bc265546601c3413408e728"
+          },
+          {
+            "name": "vs_2a9bb4cca6020fa2",
+            "file": "Media/Shaders/Ice.xvu",
+            "at": 0,
+            "length": 880,
+            "sha256": "20bccd2a4912f9d7bd3a61caee1ac565c694c651fad55e3cb10ae2983fa777ef"
+          },
+          {
+            "name": "vs_30fc83a583d5fd5e",
+            "file": "Media/Shaders/StarMorph.xvu",
+            "at": 0,
+            "length": 844,
+            "sha256": "3db866cbf29c345210ada1568216e1f80e24b6b92b5e041837e5fb3a1c76277d"
+          },
+          {
+            "name": "vs_3e1c54e79ea9ac47",
+            "file": "Media/Shaders/Gamepiece.xvu",
+            "at": 0,
+            "length": 808,
+            "sha256": "80b6c557fbde284b598bb119d3d1f3b64bb91c5855e8bd49ed49cbb5d7368287"
+          },
+          {
+            "name": "vs_421342307b901b39",
+            "file": "Media/Shaders/Gamepiece.Blended2.xvu",
+            "at": 0,
+            "length": 936,
+            "sha256": "5b751fcaf6fbba8ff51ed7624179b5716c84b5bb2523786c788e1756a4f46ad2"
+          },
+          {
+            "name": "vs_5e961228852c0d95",
+            "file": "Media/Shaders/GpuParticleUpdate.xvu",
+            "at": 0,
+            "length": 240,
+            "sha256": "5260c18153963da973912b701baf5e730f3eb31240bc0bf5cc4e4f9b52bda25f"
+          },
+          {
+            "name": "vs_6433c5887cac11a5",
+            "file": "Media/Shaders/Sprite.xvu",
+            "at": 0,
+            "length": 356,
+            "sha256": "97cc3ba94aa00427a61848101c02bcdb21df81fa90b551d43a27bd9349dd1f4e"
+          },
+          {
+            "name": "vs_76d5b602156ee4bf",
+            "file": "Media/Shaders/ShadeSceneVertex.xvu",
+            "at": 0,
+            "length": 724,
+            "sha256": "f48453cac9fa5cfd1d91f596e5550a156260f9ac7d715d3f972f3c12ce3f6bb1"
+          },
+          {
+            "name": "vs_7d247ef0b2e1a9a2",
+            "file": "Media/Shaders/ShadeZNGlassVertex.xvu",
+            "at": 0,
+            "length": 420,
+            "sha256": "863cc613bad732583f386738f847d06e8ba04b5f1ef1f5dd0408286947643604"
+          },
+          {
+            "name": "vs_83cfc4fffb5952c2",
+            "file": "Media/Shaders/Cursor.xvu",
+            "at": 0,
+            "length": 724,
+            "sha256": "c66be0fcd6db7d5a662156c101396d7fed55f0e2a5b645343eeabee1402dc27f"
+          },
+          {
+            "name": "vs_a082920d163584a4",
+            "file": "Media/Shaders/Flare.xvu",
+            "at": 0,
+            "length": 536,
+            "sha256": "2e1a1e12de5d0872ae405cb8d89ff446fa47450f61e445557783facf3f4f4b43"
+          },
+          {
+            "name": "vs_a252efb075a5e89a",
+            "file": "Media/Shaders/Quad.xvu",
+            "at": 0,
+            "length": 396,
+            "sha256": "2ab3b73e55fe0d0f6f6786dc597df09e9cceb181490c0ceb9c5e235a5602e6fc"
+          },
+          {
+            "name": "vs_b61b4ccc53286e01",
+            "file": "Media/Shaders/DirectionalFalloff.xvu",
+            "at": 0,
+            "length": 732,
+            "sha256": "06a81e73f228ac12687c5cc3a47939327b99f5cc41f2f8b05973022560cdbbfd"
+          },
+          {
+            "name": "vs_e7176a5332d7f009",
+            "file": "Media/Shaders/ScreenSpaceShader.xvu",
+            "at": 0,
+            "length": 240,
+            "sha256": "47d06386e13dd54b0f801f1296b3039925783e0663ec4e879a343646e8c0a588"
+          },
+          {
+            "name": "vs_ec9c89f780ddbd13",
+            "file": "Media/Shaders/Simple.xvu",
+            "at": 0,
+            "length": 724,
+            "sha256": "939c6c7c247a74d3f36b45d10d40f4180fc8a835ffb7580605fb25b29cac9205"
+          }
+        ],
+        "split": [
+          {
+            "name": "ps_0240e705a97b8650",
+            "file": "Meshes/BackgroundMain.Glow.max.bin",
+            "virtual_at": 1078164,
+            "virtual": 536,
+            "physical_at": 958408,
+            "physical": 436,
+            "sha256": "dc879b9d507c165bb5dab80f92bb1589ddef0c500309efbee4e4362d1e4d3e9e"
+          },
+          {
+            "name": "ps_05c9b802c6e2e9b2",
+            "file": "Meshes/GamepieceStar.max.bin",
+            "virtual_at": 138984,
+            "virtual": 700,
+            "physical_at": 48836,
+            "physical": 520,
+            "sha256": "79dda191a1a4277ff11b408573a7b1a97502cd0e8a6b06d1eb31948ad61b7345"
+          },
+          {
+            "name": "ps_087373af9ce9df64",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2541300,
+            "virtual": 324,
+            "physical_at": 2290264,
+            "physical": 172,
+            "sha256": "f877b586e5c2597dda46f18c181a43d878384cac1801b1d47969719d8465fdc3"
+          },
+          {
+            "name": "ps_0c2d6abb1ccf2e5d",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2519532,
+            "virtual": 596,
+            "physical_at": 2288376,
+            "physical": 424,
+            "sha256": "d8a1bde5d2d412d872c8a25b64df15303ea6d7d7e69a680af7d0f0e85b3fcbf3"
+          },
+          {
+            "name": "ps_0fc0778f5f149114",
+            "file": "Meshes/EnergyWell0.max.bin",
+            "virtual_at": 193744,
+            "virtual": 560,
+            "physical_at": 94744,
+            "physical": 436,
+            "sha256": "4a1688555a3dfd3aca1929dd382ff78fb4e2a3b4a7f46a4f2880e89d82b9b0b4"
+          },
+          {
+            "name": "ps_137410352d5f6565",
+            "file": "Meshes/GamepieceBomb.Death.max.bin",
+            "virtual_at": 91444,
+            "virtual": 632,
+            "physical_at": 61820,
+            "physical": 520,
+            "sha256": "ffe45978b90767bd5e610711290e7309b6ae51ea4c859a728e5aad2028417afc"
+          },
+          {
+            "name": "ps_19115150f6146dfe",
+            "file": "Meshes/Highlight.max.bin",
+            "virtual_at": 20484,
+            "virtual": 408,
+            "physical_at": 5868,
+            "physical": 232,
+            "sha256": "0fe1148d06bfec00ce3becca4b57174c38cc339ed4236686bf2f4ed38a3069cd"
+          },
+          {
+            "name": "ps_201081840ed0e6f7",
+            "file": "Meshes/LifeBar0.Death.Glow.max.bin",
+            "virtual_at": 214948,
+            "virtual": 428,
+            "physical_at": 112452,
+            "physical": 240,
+            "sha256": "e057ee8d79c18a1209fc1e60c518f6fb716b6b71c0d15c7197674e5b80c6f3f6"
+          },
+          {
+            "name": "ps_2088cda45cb5ed8e",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2526188,
+            "virtual": 568,
+            "physical_at": 2289336,
+            "physical": 412,
+            "sha256": "c1ff23b8a41ef1272f972349f243d0667efa71eb33903d58329338f7f170d96f"
+          },
+          {
+            "name": "ps_20ca701551a209c1",
+            "file": "Meshes/Hint.Glow.max.bin",
+            "virtual_at": 6876,
+            "virtual": 344,
+            "physical_at": 5020,
+            "physical": 196,
+            "sha256": "634dad4bf6d96c0bd2d435bdbb96ad2554ef4ae7b31cbfd8c1ffc9ac1ebe877b"
+          },
+          {
+            "name": "ps_212309f4a2c0564b",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2550904,
+            "virtual": 564,
+            "physical_at": 2290840,
+            "physical": 400,
+            "sha256": "ff6b674ccd42012cddfea9e347838a64c766d952af26156a96d8a59b3dca7397"
+          },
+          {
+            "name": "ps_22d514fbdfff7aa7",
+            "file": "Meshes/Centerline.Glow.max.bin",
+            "virtual_at": 4608,
+            "virtual": 376,
+            "physical_at": 3048,
+            "physical": 196,
+            "sha256": "8fd0cb25453c805b71600a307d4892af8db0a8036b0719368e17b071c4b896ab"
+          },
+          {
+            "name": "ps_243fe936b252015a",
+            "file": "Meshes/GamepieceBlackPearl.Death.max.bin",
+            "virtual_at": 150916,
+            "virtual": 608,
+            "physical_at": 58616,
+            "physical": 496,
+            "sha256": "419efdc6b7e3fa59eeca93ec6e9e254a80ebdfcf70666e06d560f0cf821623a9"
+          },
+          {
+            "name": "ps_2a8fd98703e6904f",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2554200,
+            "virtual": 460,
+            "physical_at": 2291256,
+            "physical": 264,
+            "sha256": "51a0adadc31a4e79418fe5b18b78e6e001dbe4a2a5816c84afd1effb69961b92"
+          },
+          {
+            "name": "ps_335f4cdda235a6bc",
+            "file": "Meshes/BackgroundMain.Glow.max.bin",
+            "virtual_at": 1081676,
+            "virtual": 500,
+            "physical_at": 958856,
+            "physical": 340,
+            "sha256": "eb7f1392e5089cc91996372595f2e856a591241f9042fe69d001167347ffdf32"
+          },
+          {
+            "name": "ps_3469cb911ce04c4b",
+            "file": "Meshes/GamepieceBonus.max.bin",
+            "virtual_at": 9980,
+            "virtual": 380,
+            "physical_at": 8820,
+            "physical": 208,
+            "sha256": "46ea1c3cdc04d5bd9ef7b065b1434a5c9824f3ce2eb0318db24cbcdc32ba0146"
+          },
+          {
+            "name": "ps_3c2ae90051a08202",
+            "file": "Meshes/Centerline.max.bin",
+            "virtual_at": 334572,
+            "virtual": 572,
+            "physical_at": 30900,
+            "physical": 376,
+            "sha256": "4c20c92631a482feda761b70a8838e22443eda5330b28188ee1a3116cc18163f"
+          },
+          {
+            "name": "ps_42885cd806ebc657",
+            "file": "Meshes/GamepieceBlackPearl.Glow.max.bin",
+            "virtual_at": 65512,
+            "virtual": 460,
+            "physical_at": 24372,
+            "physical": 244,
+            "sha256": "872dd6dd66649c6643230d334ee19380be74f50c4e4c1570cd8d1e22910b11ca"
+          },
+          {
+            "name": "ps_434c6b2af342d26c",
+            "file": "Meshes/Gamepiece.Death.max.bin",
+            "virtual_at": 201760,
+            "virtual": 592,
+            "physical_at": 137624,
+            "physical": 376,
+            "sha256": "2788669662f72751bc93d53c76f1deb525b4aa99707a1cba0de66a3d05b942f9"
+          },
+          {
+            "name": "ps_4446205725d33ccb",
+            "file": "Meshes/EnergyWell0.Glow.max.bin",
+            "virtual_at": 95824,
+            "virtual": 356,
+            "physical_at": 75384,
+            "physical": 132,
+            "sha256": "e6fb70150c3a9f042637145b86de4deac324080d3326e52dcb6479e176c83d44"
+          },
+          {
+            "name": "ps_44f9b41426f3ae5e",
+            "file": "Meshes/Oracle.max.bin",
+            "virtual_at": 93604,
+            "virtual": 572,
+            "physical_at": 57308,
+            "physical": 376,
+            "sha256": "7eefe769f4a8c77e3afbdce1ce659f1586944a3287887c2d72523d2d76b12857"
+          },
+          {
+            "name": "ps_4a68318a50187dc5",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 466364,
+            "virtual": 572,
+            "physical_at": 260452,
+            "physical": 376,
+            "sha256": "14fe91b9d0f8d74247788db47e29b93320345b0490d5b4f3de3647582c85466d"
+          },
+          {
+            "name": "ps_4eb76f9f47f5a97c",
+            "file": "Meshes/Highlight.max.bin",
+            "virtual_at": 17196,
+            "virtual": 428,
+            "physical_at": 5612,
+            "physical": 244,
+            "sha256": "6e08ff370d1998abd7d7090260b4ef6c155f3bf23562f00cc99c598d9337b98a"
+          },
+          {
+            "name": "ps_4ed4fc0b21b2ddeb",
+            "file": "Meshes/EnergyWellY0.max.bin",
+            "virtual_at": 90700,
+            "virtual": 632,
+            "physical_at": 23984,
+            "physical": 448,
+            "sha256": "487621b1664c46ba8ced74269607c7c66cc2dc45e26835f877da3031ff136073"
+          },
+          {
+            "name": "ps_4fd8017a019694fc",
+            "file": "Meshes/GamepieceMagicEye.Death.max.bin",
+            "virtual_at": 173060,
+            "virtual": 396,
+            "physical_at": 57576,
+            "physical": 232,
+            "sha256": "66ee44f39c87371ae367e0f75d5a811356f5649118612f22741f900812ba2db9"
+          },
+          {
+            "name": "ps_4fdf0601e7f19c91",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2522860,
+            "virtual": 572,
+            "physical_at": 2288952,
+            "physical": 364,
+            "sha256": "ae770370cabbdaba24f682fcb0e5f854b7563110525f0f6e1ee8a81ac10403fe"
+          },
+          {
+            "name": "ps_5095057cb3f38daa",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2520168,
+            "virtual": 336,
+            "physical_at": 2288824,
+            "physical": 120,
+            "sha256": "723a2678acbf6cc7270f9c14335534d5a02a41a205a29c7cfde5175f77405f31"
+          },
+          {
+            "name": "ps_577b0b4e60d5c91e",
+            "file": "Meshes/CursorLeft.max.bin",
+            "virtual_at": 180876,
+            "virtual": 736,
+            "physical_at": 30764,
+            "physical": 568,
+            "sha256": "c5a79bf737a7a5d550751539b64b766e1d3a2d22464c324b0a781e0972ebf6a8"
+          },
+          {
+            "name": "ps_63433b40c750ee29",
+            "file": "Meshes/LifeBar0.Death.Glow.max.bin",
+            "virtual_at": 221232,
+            "virtual": 636,
+            "physical_at": 112772,
+            "physical": 496,
+            "sha256": "d9279e02a038184cab57b8130513e3be79d7f22f7265ce15c667264e74217e5d"
+          },
+          {
+            "name": "ps_66b46a34bb2bd220",
+            "file": "Meshes/GamepieceBlackPearl.Glow.max.bin",
+            "virtual_at": 62056,
+            "virtual": 464,
+            "physical_at": 24116,
+            "physical": 232,
+            "sha256": "2f9c0dfff8360ff88d613e55b55701aaf7ec9412da0329a70571d0d6746055b0"
+          },
+          {
+            "name": "ps_72db24a91d67b26d",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 459124,
+            "virtual": 564,
+            "physical_at": 259684,
+            "physical": 388,
+            "sha256": "28bf4d439fca227d431ff466338a5b0ab3b2d28b4af4fb9ff45433a778a449b4"
+          },
+          {
+            "name": "ps_750815050032a64a",
+            "file": "Meshes/BombPing.Glow.max.bin",
+            "virtual_at": 44564,
+            "virtual": 432,
+            "physical_at": 22152,
+            "physical": 244,
+            "sha256": "caa51267444580376d40c0cd093baee88fefccc5df73eda52015aeec508e618b"
+          },
+          {
+            "name": "ps_77589936a0065578",
+            "file": "Meshes/GamepieceBlackPearl.max.bin",
+            "virtual_at": 112292,
+            "virtual": 604,
+            "physical_at": 36088,
+            "physical": 448,
+            "sha256": "40e0602d3e3a1bab053b9dd48a637317929868aa047eec42f8a28a3590028cb1"
+          },
+          {
+            "name": "ps_7978f5fbc9c43b9a",
+            "file": "Meshes/BackgroundMainTitle.Glow.max.bin",
+            "virtual_at": 20252,
+            "virtual": 200,
+            "physical_at": 19152,
+            "physical": 36,
+            "sha256": "ffb584dae53258708e29163a20cf84a7961ad8f169e14f9f7b775efe77eb4637"
+          },
+          {
+            "name": "ps_7d9e55fc46291278",
+            "file": "Meshes/BackgroundMainTitle.max.bin",
+            "virtual_at": 878432,
+            "virtual": 600,
+            "physical_at": 54080,
+            "physical": 460,
+            "sha256": "3bd255d87f49e1e9326d5466f3dd5626c5c83ea91b5c1b88919d12cbb12d8eba"
+          },
+          {
+            "name": "ps_8109e72b1c41da1d",
+            "file": "Meshes/EnergyWell2.max.bin",
+            "virtual_at": 210684,
+            "virtual": 620,
+            "physical_at": 105292,
+            "physical": 460,
+            "sha256": "0da61b7ab9737cd05149d00099a077cfa6e9a49042e0690eddafc266ef43155d"
+          },
+          {
+            "name": "ps_862e194dad4f2147",
+            "file": "Meshes/GamepieceBlackPearl.max.bin",
+            "virtual_at": 108476,
+            "virtual": 604,
+            "physical_at": 35576,
+            "physical": 508,
+            "sha256": "c02831b46aee5498d4c4df656086f0dcee023b6d941dc6c73c7495f3cc51b592"
+          },
+          {
+            "name": "ps_90872a9eadd06485",
+            "file": "Meshes/GamepieceBomb.max.bin",
+            "virtual_at": 78432,
+            "virtual": 428,
+            "physical_at": 36084,
+            "physical": 220,
+            "sha256": "adc10df90d974236031080ca9857558913786a8f07ac1837a02d317593cc4bc9"
+          },
+          {
+            "name": "ps_9d93279ca4d9b6c7",
+            "file": "Meshes/LifeBar0.Death.Glow.max.bin",
+            "virtual_at": 224832,
+            "virtual": 568,
+            "physical_at": 113284,
+            "physical": 364,
+            "sha256": "9bcfc8ca67a9dc460714f1c4166c11225059dbf0ec5260ec16ba55519112f5ef"
+          },
+          {
+            "name": "ps_9dd9fa9a8a211cd3",
+            "file": "Meshes/Gamepiece.Death.max.bin",
+            "virtual_at": 202392,
+            "virtual": 636,
+            "physical_at": 138008,
+            "physical": 508,
+            "sha256": "d1f275f265c00e511fe68b43498dea5fc649540eb04ced74e4f3015e7506b0c1"
+          },
+          {
+            "name": "ps_a16d2091fe39e3dc",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2529512,
+            "virtual": 468,
+            "physical_at": 2289752,
+            "physical": 352,
+            "sha256": "8c5180e412d31b4523ebb655b8a507a41aa8500ec8efb6c76f90691b6a52c5e6"
+          },
+          {
+            "name": "ps_a1f75e27c9cf7c69",
+            "file": "Meshes/GamepieceMagicEye.Death.max.bin",
+            "virtual_at": 176680,
+            "virtual": 608,
+            "physical_at": 57832,
+            "physical": 508,
+            "sha256": "77a64512163e6284f4e82ac06c45963cb79a3a8966a0c561ae1b6f3322f06d1d"
+          },
+          {
+            "name": "ps_a90487645e4a496f",
+            "file": "Meshes/GamepieceMagicEye.max.bin",
+            "virtual_at": 121404,
+            "virtual": 604,
+            "physical_at": 24212,
+            "physical": 448,
+            "sha256": "d3aec79788cbee29612b1e519931204ddaa9aebf550a2e610c121c754207ad81"
+          },
+          {
+            "name": "ps_b4322b036164c41d",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 462768,
+            "virtual": 472,
+            "physical_at": 260100,
+            "physical": 328,
+            "sha256": "9d88585d28c9076b349eb46397fbbbf4a0114982f9d84757f4ff85abff2a8df6"
+          },
+          {
+            "name": "ps_b7200040023093e5",
+            "file": "Meshes/GamepieceBlackPearl.Death.max.bin",
+            "virtual_at": 146940,
+            "virtual": 640,
+            "physical_at": 58040,
+            "physical": 556,
+            "sha256": "ef88ae55a49d88c415371ecc2c6430d4a2b3e868f0ff1194ce50d9be54634dc1"
+          },
+          {
+            "name": "ps_b76a898fc84e59e7",
+            "file": "Meshes/GamepieceMagicEye.max.bin",
+            "virtual_at": 122048,
+            "virtual": 668,
+            "physical_at": 24660,
+            "physical": 520,
+            "sha256": "2982635a6bd24de05b00660abef0b7b1d6e30247a8ef56313eb0e0a13a218fd7"
+          },
+          {
+            "name": "ps_ba2fd437ef610286",
+            "file": "Meshes/Gamepiece.max.bin",
+            "virtual_at": 122580,
+            "virtual": 596,
+            "physical_at": 65528,
+            "physical": 436,
+            "sha256": "fc64cbd56d915e070e0be6bfacca1dc3688311c061d781ed228148267cfbdae1"
+          },
+          {
+            "name": "ps_cc59647e20b478f9",
+            "file": "Meshes/OracleBomb.max.bin",
+            "virtual_at": 73604,
+            "virtual": 532,
+            "physical_at": 34280,
+            "physical": 328,
+            "sha256": "54654c0922f2d80191f1101c86cbb7d72c2775cd081358c076f2727f5697c8ec"
+          },
+          {
+            "name": "ps_ced522b1b0958240",
+            "file": "Meshes/GamepieceStar.Death.max.bin",
+            "virtual_at": 97656,
+            "virtual": 568,
+            "physical_at": 34436,
+            "physical": 424,
+            "sha256": "05eb19128aa4296f8062e7f212917a06fcf05dddfcca59a5e28941c02002b327"
+          },
+          {
+            "name": "ps_d1f307cbd10982fe",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2547608,
+            "virtual": 540,
+            "physical_at": 2290456,
+            "physical": 364,
+            "sha256": "31b69984a8356b5f0da6790587dce927d499f54dd81a50ecf1d58c1bcd1f8468"
+          },
+          {
+            "name": "ps_d67edaf8157ac5df",
+            "file": "Meshes/HexBackground.max.bin",
+            "virtual_at": 15040,
+            "virtual": 464,
+            "physical_at": 4008,
+            "physical": 340,
+            "sha256": "67b95ee1a5c767d30fe30517e58772c391ab6e65c1f9c24f0079f579c800efca"
+          },
+          {
+            "name": "ps_efcbedd3002d915e",
+            "file": "Meshes/Centerline.max.bin",
+            "virtual_at": 331284,
+            "virtual": 428,
+            "physical_at": 30644,
+            "physical": 232,
+            "sha256": "32204819ff2a880f805d2db2e1df5bf44e4270cbcb5a063cf414d60af480bffc"
+          },
+          {
+            "name": "ps_f1289bd1226cf35d",
+            "file": "Meshes/GamepieceRuby.max.bin",
+            "virtual_at": 161852,
+            "virtual": 636,
+            "physical_at": 40532,
+            "physical": 520,
+            "sha256": "8a376fc5b0203bb247f509682fa12c3b5ee0e8d841fcf54dc92825bc0180099c"
+          },
+          {
+            "name": "ps_f17d0f88e49d3de1",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2535052,
+            "virtual": 388,
+            "physical_at": 2290104,
+            "physical": 132,
+            "sha256": "de9d9b2e02ba99f0c613ca0c35e676d185e6300e5df4cdca0b25ce283a53f895"
+          },
+          {
+            "name": "ps_f1f49ed8ba4b89e6",
+            "file": "Meshes/GamepieceMagicEye.Death.max.bin",
+            "virtual_at": 169028,
+            "virtual": 668,
+            "physical_at": 57000,
+            "physical": 568,
+            "sha256": "9132c8891f76460b3e430f92351e4ce332e29318020ad76bcd697e50abb6f5f8"
+          },
+          {
+            "name": "ps_f5918d1c96f05534",
+            "file": "Meshes/EnergyWell0.max.bin",
+            "virtual_at": 193160,
+            "virtual": 544,
+            "physical_at": 94360,
+            "physical": 376,
+            "sha256": "39c158049de77a30d5a8cfa11bab377a08e2e65fa9b5a83bf0fde3e161b2f754"
+          },
+          {
+            "name": "ps_f7259c260887c584",
+            "file": "Meshes/GamepieceStar.Death.max.bin",
+            "virtual_at": 98264,
+            "virtual": 464,
+            "physical_at": 34884,
+            "physical": 316,
+            "sha256": "d7dd9a891603d25beab3cf0009bbe0f33bda944723422540d14d375ffb5b5033"
+          },
+          {
+            "name": "ps_fc3f67bb517cd4f3",
+            "file": "Meshes/Gamepiece.Death.max.bin",
+            "virtual_at": 209344,
+            "virtual": 596,
+            "physical_at": 138520,
+            "physical": 448,
+            "sha256": "cab2ad7f5a9491eb5fe01fb649ed39cc41f39e4fc6188e205251020ee6205110"
+          },
+          {
+            "name": "ps_ff2028a1680e9695",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 448096,
+            "virtual": 400,
+            "physical_at": 258532,
+            "physical": 244,
+            "sha256": "e028f2fa65e898646fcf90630fca5b6af82f5b5d63e10f1f521191f87a771010"
+          },
+          {
+            "name": "vs_00714d3a2b07c0dc",
+            "file": "Meshes/GamepieceMagicEye.max.bin",
+            "virtual_at": 123588,
+            "virtual": 380,
+            "physical_at": 21972,
+            "physical": 604,
+            "sha256": "79a8fd18916c1f1ef448d6cfaab08fe1c23760dd661df25fdf3907a688842168"
+          },
+          {
+            "name": "vs_05a98ace0736b849",
+            "file": "Meshes/BackgroundMainTitle.max.bin",
+            "virtual_at": 879904,
+            "virtual": 276,
+            "physical_at": 50720,
+            "physical": 280,
+            "sha256": "69088ea62390af6136157b7aea6a15aab162120bfc43f5b9d530db247a08680f"
+          },
+          {
+            "name": "vs_0627d0225a789b7a",
+            "file": "Meshes/Gamepiece.Death.max.bin",
+            "virtual_at": 205068,
+            "virtual": 380,
+            "physical_at": 134712,
+            "physical": 604,
+            "sha256": "594c7a64fdb3810de9c5afdb8d473aff6b6f57ba6e8c1c54ea0c1858186fd75c"
+          },
+          {
+            "name": "vs_0752100258badf67",
+            "file": "Meshes/GamepieceBlackPearl.max.bin",
+            "virtual_at": 110596,
+            "virtual": 392,
+            "physical_at": 33336,
+            "physical": 508,
+            "sha256": "94adfa49805c6d6102388f8a6c7701e86d64ff05052bf7db00c86433a8b4f9df"
+          },
+          {
+            "name": "vs_0aeac34b36ef490d",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 443896,
+            "virtual": 380,
+            "physical_at": 248612,
+            "physical": 604,
+            "sha256": "9c134ed19b75d4f2accb00b3b4cc393b81375ea7937b25b237873a834145180d"
+          },
+          {
+            "name": "vs_0b8be1322808d1bb",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2522568,
+            "virtual": 252,
+            "physical_at": 2281176,
+            "physical": 192,
+            "sha256": "7e7019729b4ed77de3f3788d092b787a93e7b20a7f9903ce194a8b6eec32825f"
+          },
+          {
+            "name": "vs_0fae0960b6247994",
+            "file": "Meshes/GamepieceStar.Death.max.bin",
+            "virtual_at": 103164,
+            "virtual": 404,
+            "physical_at": 33412,
+            "physical": 484,
+            "sha256": "bd2b5f4f3115c2f65bdfc36949799a233f89f9883f73fbf5613b4e42bf140140"
+          },
+          {
+            "name": "vs_129ce03027316ec3",
+            "file": "Meshes/LifeBar0.Death.Glow.max.bin",
+            "virtual_at": 216716,
+            "virtual": 320,
+            "physical_at": 111492,
+            "physical": 276,
+            "sha256": "a2502a984a1f8f241b39729b9bc67c6b5146d4b855049873865f5f37d86e101c"
+          },
+          {
+            "name": "vs_12b9626f07e9a105",
+            "file": "Meshes/EnergyWell0.max.bin",
+            "virtual_at": 203724,
+            "virtual": 308,
+            "physical_at": 93112,
+            "physical": 412,
+            "sha256": "0d795011dc4aaf27b9a3a78c2cba5abcda33fed683cb5f84be27908134052f1f"
+          },
+          {
+            "name": "vs_1320dfad2b48ac7c",
+            "file": "Meshes/GamepieceRuby.max.bin",
+            "virtual_at": 167916,
+            "virtual": 380,
+            "physical_at": 39316,
+            "physical": 604,
+            "sha256": "a4adb5c8f632035946e9d3e45552491308143c0e900f8784421a45f4ca7fccdf"
+          },
+          {
+            "name": "vs_164b8e70ccb33901",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2536688,
+            "virtual": 340,
+            "physical_at": 2284024,
+            "physical": 424,
+            "sha256": "f1e2bb52447f15055d7fc54ddb39aad4614b094619d178f5d12334f775f9442c"
+          },
+          {
+            "name": "vs_18d3d88cd23e06cd",
+            "file": "Meshes/EnergyWell0.Glow.max.bin",
+            "virtual_at": 97052,
+            "virtual": 192,
+            "physical_at": 73368,
+            "physical": 108,
+            "sha256": "7c4af594f6d4961ec523dc9b5028df00c52ece6f2a95eba3a36e6d7d138cdfc1"
+          },
+          {
+            "name": "vs_1cba66f7072e58b1",
+            "file": "Meshes/Oracle.max.bin",
+            "virtual_at": 95660,
+            "virtual": 332,
+            "physical_at": 56156,
+            "physical": 568,
+            "sha256": "774b6201fe7345309d7948705997c8f0d695cafed24044ccb16b7fb795b92c3e"
+          },
+          {
+            "name": "vs_1f43e7cc8f113238",
+            "file": "Meshes/LifeBar1.Death.Glow.max.bin",
+            "virtual_at": 203924,
+            "virtual": 192,
+            "physical_at": 97972,
+            "physical": 108,
+            "sha256": "b029aa3c6bcac71870ddfe44155d50e0c352d719bcfeef844b48f7231ccde9bd"
+          },
+          {
+            "name": "vs_227f081d7e14890d",
+            "file": "Meshes/HexBackground.max.bin",
+            "virtual_at": 16880,
+            "virtual": 296,
+            "physical_at": 3176,
+            "physical": 388,
+            "sha256": "a8aff96c95d0f0dc88ad1485fad1a82583adb78129d5a9c3b68ae3fc7b2ce243"
+          },
+          {
+            "name": "vs_24ebd5fa2a2ebe09",
+            "file": "Meshes/GamepieceBomb.max.bin",
+            "virtual_at": 81320,
+            "virtual": 288,
+            "physical_at": 33972,
+            "physical": 376,
+            "sha256": "ececec425274f140f50ddb22725a19289d13f2ba90c21a9e7069f4a3892943b3"
+          },
+          {
+            "name": "vs_2504d06f8413a561",
+            "file": "Meshes/EnergyWellY0.Glow.max.bin",
+            "virtual_at": 29092,
+            "virtual": 276,
+            "physical_at": 14820,
+            "physical": 280,
+            "sha256": "c50a5e3e2cc77eba3c8b6efe785beaf94e7f1b665fd79a3ec07a7c9fa2f237d7"
+          },
+          {
+            "name": "vs_26080fb1724f927c",
+            "file": "Meshes/LifeBar0.Death.Glow.max.bin",
+            "virtual_at": 223208,
+            "virtual": 392,
+            "physical_at": 110980,
+            "physical": 508,
+            "sha256": "a7e571971cc16e931a25b5066f0fd00334e120142875e97491335af5bf816e04"
+          },
+          {
+            "name": "vs_3173f913ca50de8d",
+            "file": "Meshes/Gamepiece.Glow.max.bin",
+            "virtual_at": 12932,
+            "virtual": 192,
+            "physical_at": 10396,
+            "physical": 108,
+            "sha256": "be0f08d58c56d906f89d73269acba6472aa75dadbebf4e58a93f35c02561a997"
+          },
+          {
+            "name": "vs_3800bb7b249ad37b",
+            "file": "Meshes/GamepieceBlackPearl.Death.max.bin",
+            "virtual_at": 154384,
+            "virtual": 432,
+            "physical_at": 57400,
+            "physical": 640,
+            "sha256": "ff546889f08687d333d1bd8c9c6c355cc0171ccd1e3331aca6ec2d539b3caee4"
+          },
+          {
+            "name": "vs_389c405a23141deb",
+            "file": "Meshes/GamepieceStar.Death.max.bin",
+            "virtual_at": 100884,
+            "virtual": 400,
+            "physical_at": 32932,
+            "physical": 472,
+            "sha256": "c136c26c24c4446552dd41b702f848f382a2167205b3451253d498522ba49049"
+          },
+          {
+            "name": "vs_39a710a446150e60",
+            "file": "Meshes/BombPing.Glow.max.bin",
+            "virtual_at": 46340,
+            "virtual": 348,
+            "physical_at": 21256,
+            "physical": 436,
+            "sha256": "f033889ee40ac6213ab4509a7c5b3c8d7beb1ca39368e6773fe7c6d2e506976b"
+          },
+          {
+            "name": "vs_3ada6d7414ac85af",
+            "file": "Meshes/BackgroundMainTitle.max.bin",
+            "virtual_at": 881052,
+            "virtual": 372,
+            "physical_at": 51008,
+            "physical": 592,
+            "sha256": "938a1afa5a18c47d3ded4e900d5cca39a20f54bf64ad29d1517ebc897b0b7135"
+          },
+          {
+            "name": "vs_3c474c51ecf5dd3b",
+            "file": "Meshes/GamepieceBlackPearl.Glow.max.bin",
+            "virtual_at": 67348,
+            "virtual": 348,
+            "physical_at": 23220,
+            "physical": 436,
+            "sha256": "5c5e0fbeea12bb72804ac0ca333b8139aeba1f8268553c6befe6ba5159874302"
+          },
+          {
+            "name": "vs_3df451950e69cf92",
+            "file": "Meshes/LifeBar0.Glow.max.bin",
+            "virtual_at": 250892,
+            "virtual": 348,
+            "physical_at": 135028,
+            "physical": 436,
+            "sha256": "3219c23524526c2b3b6e45f09268c25b8542dac5d8ff1f292cca565e9936cd1c"
+          },
+          {
+            "name": "vs_3ef3638d5d108d14",
+            "file": "Meshes/GamepieceBlackPearl.Glow.max.bin",
+            "virtual_at": 63896,
+            "virtual": 352,
+            "physical_at": 22580,
+            "physical": 316,
+            "sha256": "71630030fa216e548128d3871a2b0542a65b4a32e4363b582ab98a8defc26eb6"
+          },
+          {
+            "name": "vs_41f9672925f4d140",
+            "file": "Meshes/EnergyWellY0.Glow.max.bin",
+            "virtual_at": 30240,
+            "virtual": 300,
+            "physical_at": 15108,
+            "physical": 400,
+            "sha256": "593a4dbaf55ce01788d8153ad1277854d11547c8cd0d325db445b72f4ac19313"
+          },
+          {
+            "name": "vs_46099b3fc1127d5b",
+            "file": "Meshes/GamepieceMagicEye.Death.max.bin",
+            "virtual_at": 175036,
+            "virtual": 300,
+            "physical_at": 54632,
+            "physical": 400,
+            "sha256": "453c293c809861619f618842cccaa2c1e77251c925a728b53834e67ef8b63d8a"
+          },
+          {
+            "name": "vs_463c0e24a80a8d69",
+            "file": "Meshes/HexBackground.Glow.max.bin",
+            "virtual_at": 16756,
+            "virtual": 340,
+            "physical_at": 2788,
+            "physical": 424,
+            "sha256": "925cfdc53cf7ba36aedef1b2b51c7fda26012e18a610c6ca940ebcb9c4e5342e"
+          },
+          {
+            "name": "vs_4ce5f6af243a49ab",
+            "file": "Meshes/EnergyWell1.max.bin",
+            "virtual_at": 212172,
+            "virtual": 380,
+            "physical_at": 103096,
+            "physical": 604,
+            "sha256": "10c880915928d261e4b0e217909bb5520df86ee277c712941d784ae5fdb7395b"
+          },
+          {
+            "name": "vs_51ee083122b0dbb9",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 443896,
+            "virtual": 380,
+            "physical_at": 252548,
+            "physical": 604,
+            "sha256": "5aefedddac3c12783983538bac9c6bbe2bab82eda895497928f7285db8eb33fa"
+          },
+          {
+            "name": "vs_53633fdb64ddea69",
+            "file": "Meshes/GamepieceRuby.max.bin",
+            "virtual_at": 164036,
+            "virtual": 392,
+            "physical_at": 38292,
+            "physical": 508,
+            "sha256": "95453ac121af2094e1a0f49c2751da6ab97e640dd1131b08d792eec54d603cfc"
+          },
+          {
+            "name": "vs_53df6a76034a5164",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 449952,
+            "virtual": 396,
+            "physical_at": 248132,
+            "physical": 472,
+            "sha256": "baa5cb30d4de8c81284c838ee93c33bbcfe6b2737fb411b2f7ea84327b682a71"
+          },
+          {
+            "name": "vs_56b1432f9a38dc30",
+            "file": "Meshes/GamepieceBomb.Glow.max.bin",
+            "virtual_at": 27208,
+            "virtual": 276,
+            "physical_at": 19796,
+            "physical": 280,
+            "sha256": "43f046d011eae1b415c304e390093b54b7455993cae81457cc645ac5f0597874"
+          },
+          {
+            "name": "vs_586a23c076e7f28c",
+            "file": "Meshes/GamepieceMagicEye.Death.max.bin",
+            "virtual_at": 176208,
+            "virtual": 432,
+            "physical_at": 56360,
+            "physical": 640,
+            "sha256": "7d811c86bf586c6f728a082f147efc2620e32e619c59b5c85fb13e2edf529283"
+          },
+          {
+            "name": "vs_5fff41b0be66d2fa",
+            "file": "Meshes/Loading.max.bin",
+            "virtual_at": 71120,
+            "virtual": 268,
+            "physical_at": 18492,
+            "physical": 228,
+            "sha256": "9d91d722d7ee7bcfd88e0ed6c9228366b4d68473aa33acf92a2488a529822da7"
+          },
+          {
+            "name": "vs_617f3a63878575dc",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 457452,
+            "virtual": 368,
+            "physical_at": 250244,
+            "physical": 364,
+            "sha256": "d0bd7bbb99e9cf7c7329b3457289d33376a52d34cce3f8353ac457376a174e4d"
+          },
+          {
+            "name": "vs_686bbba84765b6c6",
+            "file": "Meshes/GamepieceMagicEye.Death.max.bin",
+            "virtual_at": 171276,
+            "virtual": 436,
+            "physical_at": 53288,
+            "physical": 664,
+            "sha256": "162abd6b1c49d138a8a53beaece85d446b897a4ca5865287eba5144637ead780"
+          },
+          {
+            "name": "vs_6977d649919ea06b",
+            "file": "Meshes/CursorLeft.max.bin",
+            "virtual_at": 183260,
+            "virtual": 432,
+            "physical_at": 29484,
+            "physical": 640,
+            "sha256": "6caf1832726a1bd2c6938207407b54601ec469be43c5c42e81c61cfa27489020"
+          },
+          {
+            "name": "vs_6caf8ced379b081e",
+            "file": "Meshes/EnergyWell0.Glow.max.bin",
+            "virtual_at": 101076,
+            "virtual": 300,
+            "physical_at": 74072,
+            "physical": 400,
+            "sha256": "1847a0f52a51bc26b1154fc87c6e29b9305574ae353ecc6cc3b1e64f7daa4239"
+          },
+          {
+            "name": "vs_72f2574e0816adec",
+            "file": "Meshes/Highlight.max.bin",
+            "virtual_at": 23392,
+            "virtual": 300,
+            "physical_at": 5196,
+            "physical": 400,
+            "sha256": "794f1149e8aa26b98115a6cf1f09edee907f4c2bf436bd1f93ec01dbaf6d1023"
+          },
+          {
+            "name": "vs_77797e7965432f13",
+            "file": "Meshes/LifeBar1.Death.max.bin",
+            "virtual_at": 431512,
+            "virtual": 348,
+            "physical_at": 230356,
+            "physical": 436,
+            "sha256": "09b1cdddb181f5bbc1acd6e8854358ccda35c044849c7658d2172e74b8eb5bfe"
+          },
+          {
+            "name": "vs_795c5520ddf75c56",
+            "file": "Meshes/GamepieceMagicEye.max.bin",
+            "virtual_at": 127508,
+            "virtual": 392,
+            "physical_at": 23188,
+            "physical": 508,
+            "sha256": "a4a822db476b3e65163a60a810a2fd23108b50b7e7b99279791e71ed885c33c1"
+          },
+          {
+            "name": "vs_79ba69dc8cbb7086",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2522568,
+            "virtual": 252,
+            "physical_at": 2285848,
+            "physical": 192,
+            "sha256": "ff8a0babf8766217b08667618b55eed90521e55d2bd3c916842533fdf6f19c1f"
+          },
+          {
+            "name": "vs_7aefc97af022de96",
+            "file": "Meshes/GamepieceMagicEye.Glow.max.bin",
+            "virtual_at": 75828,
+            "virtual": 348,
+            "physical_at": 15716,
+            "physical": 436,
+            "sha256": "2129b656de82b6e36377fa8318715a63f82b3de96b3f71b530f1da0df7e2c354"
+          },
+          {
+            "name": "vs_7be3a9da6bcaca6e",
+            "file": "Meshes/GamepieceBlackPearl.max.bin",
+            "virtual_at": 114412,
+            "virtual": 380,
+            "physical_at": 34360,
+            "physical": 604,
+            "sha256": "d9cca621cbe9b4e4b0946a1878026cdd0dc3836361f97fa6e0d1d53015c08faf"
+          },
+          {
+            "name": "vs_7dfd323a60acd24b",
+            "file": "Meshes/GamepieceBomb.Death.max.bin",
+            "virtual_at": 97116,
+            "virtual": 288,
+            "physical_at": 60860,
+            "physical": 376,
+            "sha256": "b8d3b7b527623c38f8178bcc7452aea8f873f27d59e6e6a05cd6b53064cf4459"
+          },
+          {
+            "name": "vs_7ec1b10b449fb51b",
+            "file": "Meshes/BackgroundMain.Glow.max.bin",
+            "virtual_at": 1083624,
+            "virtual": 348,
+            "physical_at": 957544,
+            "physical": 436,
+            "sha256": "455a118ba852a272de35829cc71b730115cb2492163ddcb01e90d6d52c8c3de1"
+          },
+          {
+            "name": "vs_80527d08485943be",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2521376,
+            "virtual": 320,
+            "physical_at": 2280856,
+            "physical": 316,
+            "sha256": "86a8ecf92e1735331e8350c7b7306ec4a2e5f26ee74cf912c4719fc4b7658cbc"
+          },
+          {
+            "name": "vs_81be0234d5dcb9aa",
+            "file": "Meshes/GamepieceMagicEye.Glow.max.bin",
+            "virtual_at": 72380,
+            "virtual": 352,
+            "physical_at": 15076,
+            "physical": 316,
+            "sha256": "1bb9bbf7cb4b9b07a216087c2e6fa6a6b4cd7f17d97e0fe204ed5eb0b31cf149"
+          },
+          {
+            "name": "vs_8be59ad6c0b5dc8d",
+            "file": "Meshes/GamepieceBonus.max.bin",
+            "virtual_at": 11652,
+            "virtual": 264,
+            "physical_at": 8372,
+            "physical": 216,
+            "sha256": "c38c1c355d4b6e1d92f16c521a81124c7fa89bf5511a0d451dc1fb7f3dd6300f"
+          },
+          {
+            "name": "vs_8d930928f4506004",
+            "file": "Meshes/LifeBar0.Glow.max.bin",
+            "virtual_at": 258024,
+            "virtual": 356,
+            "physical_at": 136980,
+            "physical": 448,
+            "sha256": "e837997e9d466a45ce7d9e5d214dcf59724a8157e7571731fda2e6215213d6c0"
+          },
+          {
+            "name": "vs_8dd2e584c6e9124c",
+            "file": "Meshes/LifeBar1.Glow.max.bin",
+            "virtual_at": 234984,
+            "virtual": 276,
+            "physical_at": 122336,
+            "physical": 280,
+            "sha256": "96488f3ae9b3475198794692eb211ad77e683cf73e8483a1f0cb434bae271d35"
+          },
+          {
+            "name": "vs_9546b39a0c9c2744",
+            "file": "Meshes/EnergyWell0.max.bin",
+            "virtual_at": 202520,
+            "virtual": 332,
+            "physical_at": 92536,
+            "physical": 568,
+            "sha256": "f8be9aa9226fb382cc4d8637b75da1ec5beea8855ff6ab760c01bebb8264359a"
+          },
+          {
+            "name": "vs_967b2291aac81629",
+            "file": "Meshes/EnergyWell0.Glow.max.bin",
+            "virtual_at": 99928,
+            "virtual": 276,
+            "physical_at": 73784,
+            "physical": 280,
+            "sha256": "594b028eac2bde1216481091876fe3cac9f21f625ce3e15b4785509b1cdf3346"
+          },
+          {
+            "name": "vs_9c4595007b6d00f7",
+            "file": "Meshes/EnergyWell0.max.bin",
+            "virtual_at": 195176,
+            "virtual": 392,
+            "physical_at": 90904,
+            "physical": 508,
+            "sha256": "27642fc67877be40489ba5d74039eb34f509a50a29df13eae8c355abc40e3bce"
+          },
+          {
+            "name": "vs_9ded3d0ce7007231",
+            "file": "Meshes/LifeBar0.Death.max.bin",
+            "virtual_at": 464696,
+            "virtual": 376,
+            "physical_at": 251940,
+            "physical": 604,
+            "sha256": "c6d29c04a41bdddd78c4a946a220e772ac14abcde242d0df870c33240255f942"
+          },
+          {
+            "name": "vs_9eb0bdee473a7b52",
+            "file": "Meshes/BackgroundMainTitle.Glow.max.bin",
+            "virtual_at": 21564,
+            "virtual": 276,
+            "physical_at": 18576,
+            "physical": 280,
+            "sha256": "255e73947e1a4958954dbb770b72a4124957a1b2f8b3e7a8952fa63d04c65bef"
+          },
+          {
+            "name": "vs_9f3517fa4ce0130c",
+            "file": "Meshes/GamepieceBlackPearl.Death.max.bin",
+            "virtual_at": 149132,
+            "virtual": 436,
+            "physical_at": 55384,
+            "physical": 664,
+            "sha256": "429efbd3713ad6e5221a3e9aca71eaa04179d62662cf87a5002ee4b8ea257c7a"
+          },
+          {
+            "name": "vs_a29ab8ef3cd7553b",
+            "file": "Meshes/GamepieceBomb.Glow.max.bin",
+            "virtual_at": 29516,
+            "virtual": 192,
+            "physical_at": 20468,
+            "physical": 108,
+            "sha256": "2868ef7d8dfe4cca7130efafae52fa30c971f681e727b53537b250dc296f6ee2"
+          },
+          {
+            "name": "vs_abfb36006f022294",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2532408,
+            "virtual": 288,
+            "physical_at": 2283128,
+            "physical": 376,
+            "sha256": "2ebd8c47bfd1f5d80e0c0950d3bdc9d1f89e7134871ac6b07c95a38c63573992"
+          },
+          {
+            "name": "vs_afaddf174f900a0e",
+            "file": "Meshes/Gamepiece.Death.max.bin",
+            "virtual_at": 203900,
+            "virtual": 296,
+            "physical_at": 134296,
+            "physical": 388,
+            "sha256": "3a41d8b0db0b786a120a7200e33f42c1a3cc9b1ffca6c1c77ec1449045391848"
+          },
+          {
+            "name": "vs_b04e029579938b7b",
+            "file": "Meshes/LifeBar0.Glow.max.bin",
+            "virtual_at": 254476,
+            "virtual": 380,
+            "physical_at": 135924,
+            "physical": 604,
+            "sha256": "a0c2e7f09ddbefea57dbc0675631c2a8d2e2193edd08d1291a18807db13fb8be"
+          },
+          {
+            "name": "vs_b094c6a94d523359",
+            "file": "Meshes/BackgroundMainTitle.max.bin",
+            "virtual_at": 887344,
+            "virtual": 332,
+            "physical_at": 52832,
+            "physical": 568,
+            "sha256": "7ce6d7d19aec984e056f4aa7cbf41d3daa97a20b7fe73fded9da29f7cd2be04e"
+          },
+          {
+            "name": "vs_b4e078b959e58c11",
+            "file": "Meshes/Gamepiece.Death.max.bin",
+            "virtual_at": 205068,
+            "virtual": 380,
+            "physical_at": 137016,
+            "physical": 604,
+            "sha256": "5de6b10a559befa179e089ade9d3104c0a1d70ec4fd0a664537ce7a0305987de"
+          },
+          {
+            "name": "vs_b7e7075450c528cb",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2522568,
+            "virtual": 252,
+            "physical_at": 2281848,
+            "physical": 192,
+            "sha256": "0d2f4a3931312d39fb5b48289f2f60302ba42cf7995d0cbdb61dfa5beae674e4"
+          },
+          {
+            "name": "vs_b8ae8b029e47d77b",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2542872,
+            "virtual": 244,
+            "physical_at": 2285624,
+            "physical": 196,
+            "sha256": "2b643df18b4ec405383520417a388a631b64a7f644eb240109f62549b70ea4dd"
+          },
+          {
+            "name": "vs_ba3fa30763d314b2",
+            "file": "Meshes/Hint.Glow.max.bin",
+            "virtual_at": 8476,
+            "virtual": 288,
+            "physical_at": 4252,
+            "physical": 376,
+            "sha256": "7941bfbdfb3afffab8a5499f05e4dc659ce2abaf68e06c790e2ac0641d598c6a"
+          },
+          {
+            "name": "vs_be5cba8b293b3519",
+            "file": "Meshes/LifeBar1.Death.max.bin",
+            "virtual_at": 431512,
+            "virtual": 348,
+            "physical_at": 235316,
+            "physical": 436,
+            "sha256": "86e1fafe155a8e9e6bc9d1a2510962ca59b1fffb6b86a8f9b0d8bd9e0d2aa406"
+          },
+          {
+            "name": "vs_d0226af1e750b23f",
+            "file": "Meshes/Gamepiece.max.bin",
+            "virtual_at": 128312,
+            "virtual": 296,
+            "physical_at": 63672,
+            "physical": 388,
+            "sha256": "ec32b85d1d772f59a9f45f2764a8a0f1d188b42fd15553be433b57d32d3594ef"
+          },
+          {
+            "name": "vs_d08ddaa8cc538696",
+            "file": "Meshes/Centerline.Glow.max.bin",
+            "virtual_at": 6272,
+            "virtual": 252,
+            "physical_at": 1896,
+            "physical": 192,
+            "sha256": "3fd173bb14d303e3dde8dfbd8ba79b76a26b529d998cc3ca4207ef47ce2a202f"
+          },
+          {
+            "name": "vs_d26292628e8b7698",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2524680,
+            "virtual": 344,
+            "physical_at": 2281368,
+            "physical": 472,
+            "sha256": "197caf5608e7ca42fdcb100ba5d17ff866493f390c2674dceb48b33a5b566f3e"
+          },
+          {
+            "name": "vs_d400d884dd6951fe",
+            "file": "Meshes/Highlight.max.bin",
+            "virtual_at": 18964,
+            "virtual": 304,
+            "physical_at": 4236,
+            "physical": 280,
+            "sha256": "10fbd631de3a18979d8bcb0fe834b845aa475d30a1228f5663e782049e716844"
+          },
+          {
+            "name": "vs_d708bb04c677f751",
+            "file": "Meshes/LifeBar0.Death.Glow.max.bin",
+            "virtual_at": 216716,
+            "virtual": 320,
+            "physical_at": 109988,
+            "physical": 276,
+            "sha256": "7440d271e6d3a34d1c0557e4e6394929e52ec713e97f08b630b70779c8d12fa8"
+          },
+          {
+            "name": "vs_d90e77f5c2c11c8e",
+            "file": "Meshes/LifeBar1.Death.max.bin",
+            "virtual_at": 430244,
+            "virtual": 396,
+            "physical_at": 229876,
+            "physical": 472,
+            "sha256": "b24a77823f5294258d075096f7c5795fffcba05e6f06c8d97197f91159247e2e"
+          },
+          {
+            "name": "vs_dc9e8c03ff8e38e6",
+            "file": "Meshes/OracleBomb.max.bin",
+            "virtual_at": 75580,
+            "virtual": 308,
+            "physical_at": 33448,
+            "physical": 412,
+            "sha256": "c4aad275cd4f013baaa61f2bf58009498b73fb225c2c76c4ea1298ad155d4232"
+          },
+          {
+            "name": "vs_e4957f7175692a25",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2549396,
+            "virtual": 344,
+            "physical_at": 2286712,
+            "physical": 432,
+            "sha256": "4964bb6dcade2e170abcd5223dc0a39908ad7f371f0754eb831564bcea4237d5"
+          },
+          {
+            "name": "vs_e4e6b2a839cc8994",
+            "file": "Meshes/GamepieceStar.Death.max.bin",
+            "virtual_at": 99600,
+            "virtual": 412,
+            "physical_at": 32420,
+            "physical": 496,
+            "sha256": "521fc840a0b25744682db63841241f347bb6cacf76399156d71a5be1acec7e95"
+          },
+          {
+            "name": "vs_e524079cee728e00",
+            "file": "Meshes/Centerline.max.bin",
+            "virtual_at": 333052,
+            "virtual": 304,
+            "physical_at": 30356,
+            "physical": 280,
+            "sha256": "d8f6e30994ed87318c7e08c1cda6e569fdf760f60b55de0ba3839011d02a4909"
+          },
+          {
+            "name": "vs_e5741344071e6267",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2531228,
+            "virtual": 308,
+            "physical_at": 2282712,
+            "physical": 412,
+            "sha256": "fdbefa590b46a73284871b667ee92ddad72e146d602cfb54df13f018ed53deb2"
+          },
+          {
+            "name": "vs_e7c9ef824a0a16cc",
+            "file": "Meshes/Gamepiece.Death.max.bin",
+            "virtual_at": 211488,
+            "virtual": 360,
+            "physical_at": 136536,
+            "physical": 460,
+            "sha256": "65d0ff01f53c0990e7923b1d2849c6bf52e9e8606a171a50c69c121154f80716"
+          },
+          {
+            "name": "vs_e8169bf7685dab8c",
+            "file": "Meshes/Centerline.max.bin",
+            "virtual_at": 333052,
+            "virtual": 304,
+            "physical_at": 29300,
+            "physical": 280,
+            "sha256": "49e2e6976d7fe4fd95e97ba828ff8c5b70ecd6637923b26c5932211ad3c82d98"
+          },
+          {
+            "name": "vs_eb8d8f187545d092",
+            "file": "Meshes/LifeBar0.max.bin",
+            "virtual_at": 364648,
+            "virtual": 356,
+            "physical_at": 168664,
+            "physical": 448,
+            "sha256": "72b7522cda73f5e598210aaba1be493cb8c50db56c0731e46b478217dd08c7a5"
+          },
+          {
+            "name": "vs_edf0fd81cba62f6f",
+            "file": "Meshes/LifeBar0.Glow.max.bin",
+            "virtual_at": 250892,
+            "virtual": 348,
+            "physical_at": 136532,
+            "physical": 436,
+            "sha256": "deaf4d4cf3f93a100bd24e77b8d189baf83436c72f0518f5f220a223bd0838be"
+          },
+          {
+            "name": "vs_f173863d0bd0e73b",
+            "file": "Meshes/Gamepiece.max.bin",
+            "virtual_at": 124684,
+            "virtual": 308,
+            "physical_at": 65112,
+            "physical": 412,
+            "sha256": "88a28322ad33ec66a569bfcf6d584b9424f1a845c05b8f5bd9c4e3b40c2d5768"
+          },
+          {
+            "name": "vs_f1905beda788b33d",
+            "file": "Meshes/BackgroundBattle.max.bin",
+            "virtual_at": 2532408,
+            "virtual": 288,
+            "physical_at": 2284856,
+            "physical": 376,
+            "sha256": "4847bcb6ba80dbd6d540438537b3a9a7650c38d89a25a6233886334f385b9283"
+          },
+          {
+            "name": "vs_f27f8c5e66fc8b14",
+            "file": "Meshes/Gamepiece.Mask.max.bin",
+            "virtual_at": 28712,
+            "virtual": 276,
+            "physical_at": 20248,
+            "physical": 280,
+            "sha256": "1882e3c835b0c5500256587b42761b9274da9127f73af703974abdbe6f19aeac"
+          },
+          {
+            "name": "vs_f3d8e4b395c70a8e",
+            "file": "Meshes/EnergyWell0.max.bin",
+            "virtual_at": 196440,
+            "virtual": 320,
+            "physical_at": 91416,
+            "physical": 316,
+            "sha256": "4fd4dd3a23ec5c5c2c786fe655415105d67997b26451bd1a54f629fa34e4488f"
+          },
+          {
+            "name": "vs_ff478d14aeb1892a",
+            "file": "Meshes/BackgroundMain.Glow.max.bin",
+            "virtual_at": 1080148,
+            "virtual": 308,
+            "physical_at": 956712,
+            "physical": 412,
+            "sha256": "b80752275e602ae1c13690efa922eb76dd10ae68d663fabff285df7b3900ac4e"
+          },
+          {
+            "name": "vs_ff50ee8271ed3393",
+            "file": "Meshes/LifeBar0.Death.Glow.max.bin",
+            "virtual_at": 226740,
+            "virtual": 368,
+            "physical_at": 111780,
+            "physical": 364,
+            "sha256": "1a6f6f91ea20c0633a76d70da87d91e0b60c4b0c8291b4720e96c2c297ce90f1"
+          }
+        ],
+        "package_sha256": "a68875f805a263d8cef92352580913cef7d213ade409ce5af43f575579603d6e",
+        "package_size": 1373288
+      }
+    }
+  ]
+}
