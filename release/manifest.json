@@ -3,11 +3,11 @@
   "builds": [
     {
       "edition": "Xbox Live Arcade (title 58410826) with Title Update 1",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "xex_sha256": "22a7f67503078a9d479e6f65e7c84941ae16aec7e5e0896cade0661b1a8fb6ca",
       "nro": "hexic2-nx.nro",
-      "nro_sha256": "a99f7642ae76e6406ff9cfb127a7a936d34c7834b843271c37110460fd5177c4",
-      "nro_size": 51605948,
+      "nro_sha256": "9870755a450c38f5b56ec7aac08363c0a7e33571ea3128d0abf0a2eb9ea65ff9",
+      "nro_size": 51679676,
       "game_files": 343,
       "game_bytes": 57916766,
       "update": {
